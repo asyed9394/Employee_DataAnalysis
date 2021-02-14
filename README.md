@@ -13,11 +13,13 @@ In order to do the above mentioned planning, HR employee data is used to identif
     - Entity relationship diagram for HR Employee data : 
      
      ![link to ERD](EmployeeDB.png)
-    - Link to schme sql to create database [Link to schema creation SQL](Queries/ph_employeedb_schema.sql)
-    - Link to data files:
-      Employees [employee.csv](Data/employees.csv)
-    
-    
-- Software: Anaconda Jupyter notebook Python 3.7 and panda
-- Link to the Jupyter notebook which performs analysis for challenge is : [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
-- Data sources format : see the below screenshot to see the expected file format for data source.
+- Link to schme sql to create database [Link to schema creation SQL](Queries/ph_employeedb_schema.sql)
+- Link to data files:
+    1. Data about Employees [employee.csv](Data/employees.csv)
+    2. Data about departments [departments.csv)Data/departments.csv)
+    3. Data about employees and department [deptartment employee.csv](Data/dept_emp.csv)
+    4. Data about employee's job titles during their tenure at the PH [employee titltes](Data/titles.csv)
+    5. Data about employess salaries during their tenure at the PH [employee salaries](Data/salaries.csv)
+    6. Data about department manages over time [Department managers](Data/dept_manager.csv)
+ 
+ - Database : Postgress 11.6
