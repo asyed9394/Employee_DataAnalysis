@@ -27,7 +27,7 @@ In order to do the above mentioned planning, HR employee data is used to identif
 
 ## Analysis Results
 
-### Retiring employees title count:
+#### Retiring employees title count:
 
 1. The file [Retirement Titles](Data/retirement_titles.csv) shows all the titles held by employess who are reaching retirement baased on birth dates between Jan 1 1952 to Dec 31st 1955. Some of the employess have been long enough with company that they thave multiple changes in the job title during their tenure.e.g employee # 10004 was an engineer from Dec1 1986 to dec 1 1995 and then promoted to senior engineer thereafter .
         
@@ -38,7 +38,7 @@ In order to do the above mentioned planning, HR employee data is used to identif
     
     So we did the analysis using the latest titles for the retiring employees. The retiring employess with most recent titles are available in [Retiring Employess with latest title](Data/unique_titles.csv)
     
-2.There are only 2 employess with title "Manager" and more than 60% of the employess have "senior" level titles. Only 29% of employess seems to have a junior level title.
+ 2. There are only 2 employess with title "Manager" and more than 60% of the employess have "senior" level titles. Only 29% of employess seems to have a junior level title.
 
     count	title	            %of Total    
     29414	Senior Engineer	        33%    
@@ -52,7 +52,7 @@ In order to do the above mentioned planning, HR employee data is used to identif
     
  See the the file [Count of retirees by Title](Data/retiring_titles.csv) for above mentioned counts.
 
-### Employees eligible for mentorship program:
+#### Employees eligible for mentorship program:
 
 3. There are more 90,398 employess retiring , but for mentorship program we only have 1940 employess.  The list of employes eligible for mentorship program is provided in the file [Employees eligible for mentorship program](Data/mentorship_eligibilty.csv) 
     
