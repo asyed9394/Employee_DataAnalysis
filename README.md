@@ -29,14 +29,14 @@ In order to do the above mentioned planning, HR employee data is used to identif
 
 ### Retiring employees title count:
 
-1. The file [Retirement Titles](Data/retirement_titles.csv) shows all the tiltes held by employess who are reaching retirement baased on birth dates between Jan 1 1952 to Dec 31st 1955. Some of the employess have been long enough with companyt that they thave multiple changes in the job title during their tenur.e.g employee # 10004 was an engineer from Dec1 1986 to dec 1 1995 and then promoted to senior engineer thereafter .
+1. The file [Retirement Titles](Data/retirement_titles.csv) shows all the titles held by employess who are reaching retirement baased on birth dates between Jan 1 1952 to Dec 31st 1955. Some of the employess have been long enough with company that they thave multiple changes in the job title during their tenure.e.g employee # 10004 was an engineer from Dec1 1986 to dec 1 1995 and then promoted to senior engineer thereafter .
         
          emp_no	first_name	last_name	title	from_date	to_date    
         10001	Georgi	Facello	Senior Engineer	6/26/1986	1/1/9999    
         10004	Chirstian	Koblick	Engineer	12/1/1986	12/1/1995    
         10004	Chirstian	Koblick	Senior Engineer	12/1/1995	1/1/9999      
     
-    So we did the analysis usng the latest title for the retirng employee. The retiring employess with most recent titles are available in[Retiring Employess with latest title](Data/unique_titles.csv)
+    So we did the analysis using the latest titles for the retiring employees. The retiring employess with most recent titles are available in [Retiring Employess with latest title](Data/unique_titles.csv)
     
 2.There are only 2 employess with title "Manager" and more than 60% of the employess have "senior" level titles. Only 29% of employess seems to have a junior level title.
 
@@ -50,7 +50,7 @@ In order to do the above mentioned planning, HR employee data is used to identif
     2	    Manager	0%    
     90398   Total		
     
- See the the file [Count of retirees by Titel](Data/retiring_titles.csv) for above mentioned counts.
+ See the the file [Count of retirees by Title](Data/retiring_titles.csv) for above mentioned counts.
 
 ### Employees eligible for mentorship program:
 
@@ -60,6 +60,8 @@ In order to do the above mentioned planning, HR employee data is used to identif
     
     
 ## Summary:
+
+
 
 
     
