@@ -40,15 +40,17 @@ In order to do the above mentioned planning, HR employee data is used to identif
     
  2. There are only 2 employess with title "Manager" and more than 60% of the employess have "senior" level titles. Only 29% of employess seems to have a junior level title.
 
-    count	title	            %of Total    
-    29414	Senior Engineer	        33%    
-    28254	Senior Staff	        31%    
-    14222	Engineer	            16%    
-    12243	Staff	                14%    
-    4502	Technique Leader	    5%    
-    1761	Assistant Engineer	    2%    
-    2	    Manager	                0%    
-    90398   Total		
+    | Count       | Title                 | % of Total  |
+    | ----------- | --------------------- | ----------- |
+    | 29414       | Senior Engineer       |   33%       |
+    | 28254       | Senior Staff          |   31%       |
+    | 14222       | Engineer              |   16%       |
+    | 12243       | Staff                 |   14%       |
+    | 4502        | Technique Leader      |   5%        |
+    | 1761        | Assistant Engineer    |   2%        |
+    | 2           | Manager               |   0%        |
+    | 90398       | Total                 |             |
+    
     
  See the the file [Count of retirees by Title](Data/retiring_titles.csv) for above mentioned counts.
 
